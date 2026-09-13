@@ -1,0 +1,10 @@
+$kind: http-request
+name: http://127.0.0.1:8000/ru/cart_item/
+description: ""
+url: http://127.0.0.1:8000/ru/cart_item/
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: XbW6MiWu76DqPqgHUYmFE1wFVOmCcOhez6dZpzOnxrg
+order: 1789314529297
