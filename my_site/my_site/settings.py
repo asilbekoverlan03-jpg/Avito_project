@@ -128,7 +128,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en'
 
-TIME_ZONE = 'Asia/bishkek'
+TIME_ZONE = 'Asia/Bishkek'
 
 USE_I18N = True
 
